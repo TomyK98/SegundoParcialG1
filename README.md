@@ -1,2 +1,3 @@
 # SegundoParcialG1
 TOMAS KURUC
+JUAN CRUZ BRAVO ROJO
